@@ -1,0 +1,1 @@
+The Folder contains the highlights from the Text Book by qiskit.org and also covers the answers to the exercises in the book.
